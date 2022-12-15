@@ -8,6 +8,7 @@
   },
   "theme": {
     "colors": {
+      "bookmark_text": "white",
       "toolbar": "black",
       "toolbar_text": "white",
       "frame": "black",
@@ -17,7 +18,9 @@
       "tab_line": "white",
       "popup": "black",
       "popup_text": "white",
-      "tab_loading": "white"
+      "tab_loading": "white",
+      "icons_attention": "white",
+      "icons": "white"
     }
   }
 }
