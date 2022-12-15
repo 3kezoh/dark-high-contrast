@@ -1,6 +1,6 @@
 {
   "branches": "main",
-  "repositoryUrl": "git@github.com:3kezoh/dark-high-contrast.git",
+  "repositoryUrl": "https://github.com/3kezoh/dark-high-contrast.git",
   "plugins": [
     "@semantic-release/commit-analyzer",
     "@semantic-release/release-notes-generator",
