@@ -1,0 +1,26 @@
+{
+  "manifest_version": 2,
+  "version": "1.0",
+  "name": "Dark High Contrast",
+  "developer": {
+    "name": "3kezoh",
+    "url": "https://github.com/3kezoh"
+  },
+  "theme": {
+    "colors": {
+      "bookmark_text": "white",
+      "toolbar": "black",
+      "toolbar_text": "white",
+      "frame": "black",
+      "tab_background_text": "white",
+      "toolbar_field": "black",
+      "toolbar_field_text": "white",
+      "tab_line": "white",
+      "popup": "black",
+      "popup_text": "white",
+      "tab_loading": "white",
+      "icons_attention": "white",
+      "icons": "white"
+    }
+  }
+}
