@@ -28,8 +28,8 @@ jobs:
           node-version: "lts/*"
           cache: "pnpm"
 
-      - name: Add semantic-release and plugins globally
-        run: pnpm add --global semantic-release@19.0.5 @google/semantic-release-replace-plugin@1.1.0 @semantic-release/git@10.0.1
+      - name: Install dependencies
+        run: pnpm install --frozen-lockfile
 
       - name: Release
         run: pnpm exec semantic-release
